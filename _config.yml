@@ -10,6 +10,4 @@ baseurl: "/ConflictUrbanismFinal"  # This must match your repo name exactly (cas
 url: "https://willfainaru21.github.io"  # Your GitHub Pages user URL
 
 # Theme & build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
